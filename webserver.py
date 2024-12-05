@@ -1,4 +1,5 @@
 #import socket module
+# Finish connecting with SSH with github
 from socket import *
 import sys # In order to terminate the program
 
